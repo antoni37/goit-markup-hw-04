@@ -359,3 +359,7 @@ text-align: center;
 height: 100%;
 fill: currentColor;
 }
+.social{
+  display:block;
+  
+}
