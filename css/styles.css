@@ -374,3 +374,16 @@ fill: currentColor;
   display:block;
   
 }
+.icons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
+.list > svg{
+  width: 64px;
+  height: 64px;
+}
