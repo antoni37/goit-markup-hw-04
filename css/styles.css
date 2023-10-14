@@ -394,3 +394,7 @@ fill: currentColor;
   height: 100%;
   fill: currentColor;
 }
+.list-svg{
+  width: 40px;
+  height: 40px;
+}
