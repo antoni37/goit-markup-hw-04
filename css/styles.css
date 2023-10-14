@@ -410,5 +410,10 @@ fill: currentColor;
 .media{
   color: var(--WHITE, #FFF);
 }
+svg{
+  width: 16px;
+  height: 16px;
+
+}
 
 
