@@ -376,10 +376,7 @@ text-align: center;
 height: 100%;
 fill: currentColor;
 }
-.social{
-  display:block;
-  
-}
+
 .icons{
   display: flex;
   align-items: center;
@@ -448,4 +445,22 @@ fill: currentColor;
 }
 .fivf{
   fill: currentColor;
+}
+.container-footer{display: flex;
+  align-items: baseline;}
+.footer-text{
+  margin-right: 120px;
+}
+.media{
+  font-weight: 500;
+  line-height: 1.5;
+  font-size:16px;
+  letter-spacing: 0.02em;
+  color:#FFFFFF;
+  margin-bottom: 16px;
+}
+
+.list-two-footer{
+  display: flex; 
+  gap: 16px;
 }
