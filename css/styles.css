@@ -444,6 +444,7 @@ fill: currentColor;
   color: #404bbf;
 }
 .clients:focus{ border-color: #404bbf;
+  color: #404bbf;
 }
 .fivf{
   fill: currentColor;
