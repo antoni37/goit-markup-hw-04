@@ -465,7 +465,23 @@ fill: currentColor;
   display: flex; 
   gap: 16px;
 }
-.first-link-media:hover,
-.first-link-media:focus{
+.first-link-media-footer{ width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: #4d5ae5;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+
+}
+.first-link-media-footer:hover,
+.first-link-media-footer:focus{
   background-color: #31d0aa; 
+}
+.paragraph-footer{
+  text-align: center;
+  color: var(--CLOUD, #F4F4FD);
 }
