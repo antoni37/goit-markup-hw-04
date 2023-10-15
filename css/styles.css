@@ -440,9 +440,10 @@ fill: currentColor;
   justify-content: center;
   color: #8e8f99;
 }
-.clients:hover,
-.clients:focus,
-.clients:active{color: #404bbf;
+.clients:hover{ border-color: #404bbf; 
+  color: #404bbf;
+}
+.clients:focus{ border-color: #404bbf;
 }
 .fivf{
   fill: currentColor;
