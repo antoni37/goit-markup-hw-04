@@ -391,7 +391,7 @@ fill: currentColor;
 .link > svg{
   display: block;
 }
-.list-two-svg{
+.list-two{
   display: flex;
   gap: 24px;
   justify-content: center;
@@ -408,6 +408,15 @@ fill: currentColor;
   border-radius: 50%;
   cursor: pointer;
 }
+.first-link-media:hover,
+.first-link-media:focus{
+  background-color: #404bbf;
+}
+
 .svg-icons-list{
   fill: #f4f4fd;
+}
+.list-svg{
+  width: 40px;
+  height: 40px;
 }
