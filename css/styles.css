@@ -6,6 +6,7 @@
   --logo-color: #4d5ae5;
   --color: #8e8f99;
   --color:#404bbf;
+  --background-color: #31d0aa;
 }
 * { 
   box-sizing: border-box;
@@ -463,4 +464,8 @@ fill: currentColor;
 .list-two-footer{
   display: flex; 
   gap: 16px;
+}
+.first-link-media:hover,
+.first-link-media:focus{
+  background-color: #31d0aa; 
 }
