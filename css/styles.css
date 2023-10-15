@@ -37,9 +37,7 @@ ul {
 .list {
   list-style-type: none;
 }
-.list {
-  list-style: none;
-}
+
 .first-link {
   color:#2e2f42;
   text-decoration: none;
@@ -389,12 +387,12 @@ fill: currentColor;
   margin-bottom: 8px;
 }
 
-.link {
+.app-img {
   display: block;
 }
-.link:hover{ box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px
+.app-img:hover{ box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px
    rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);}
-.link:focus{
+   .app-img:focus{
   box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px
    rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08); }
 
