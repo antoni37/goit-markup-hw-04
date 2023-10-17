@@ -18,7 +18,6 @@ body {
   font-family: 'Roboto', sans-serif;
   color: var(--main-text-color);
   background-color: #ffffff;
-  width: 1440px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -75,7 +74,7 @@ ul {
   background-repeat: no-repeat; 
   background-position: center;
   background-size: cover;
-
+margin: 0 auto;
 }
 .title {
   color: #ffffff;
@@ -316,8 +315,6 @@ rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
 .background{
- width: 1440px;
- height: 312px;
   padding: 100px 0;
 }
 .link-block {
@@ -471,12 +468,14 @@ display: flex;
 }
 .container-footer{
   display: flex;
+   width: 1158px;
+  margin: 0 auto;
+  padding-left: 15px; 
+  padding-right: 15px;
   align-items: baseline;}
 .footer-text-mina{
   align-items: center;
   margin-right: 120px;
-  padding-left:  156px;
-  padding-bottom: 100px;
 }
 .media{
   font-weight: 500;
