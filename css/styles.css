@@ -414,7 +414,6 @@ fill: currentColor;
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin-top: 8px;
 }
 .first-link-media{
   display: flex;
@@ -527,8 +526,6 @@ padding-left: 140 1020 100 156px;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 8px;
-  padding-bottom: 8px;
 }
 .paragraph-two{
   display: flex;
